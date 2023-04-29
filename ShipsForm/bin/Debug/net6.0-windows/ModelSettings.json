@@ -1,0 +1,8 @@
+{
+  "TileSquare": 5,
+  "CellScale": 2,
+  "FieldWidth": 2500,
+  "FieldHeight": 1500,
+  "TimeTickMS": 200,
+  "MultiplyTimer":  1
+}
